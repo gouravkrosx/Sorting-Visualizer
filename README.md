@@ -2,4 +2,4 @@
 
 This project is a Web Visualization tool for sorting algorithms.
 
-<img src="sorting.png">
+<!-- <img src="sorting.png"> -->
